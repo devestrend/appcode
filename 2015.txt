@@ -1,1 +1,10 @@
-www.baidu.com 12.1.1.1
+pinjamantunai.art,8.215.74.181
+pinjamantunai.beauty,8.215.72.149
+pinjamantunai.biz,8.215.73.176
+pinjamantunai.digital,8.215.26.73
+pinjamantunai.gay,8.215.67.230
+pinjamantunai.info,147.139.139.247
+pinjamantunai.me,8.215.24.159
+pinjamantunai.pics,8.215.47.36
+pinjamantunai.shop,8.215.44.86
+pinjamantunai.us,8.215.68.168
